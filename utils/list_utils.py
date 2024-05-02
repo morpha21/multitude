@@ -11,5 +11,5 @@ def splitter(elements, quantity):
 
 if __name__ == "__main__":
 	lista = [i for i in range(1, 28)]
-	for i in splitter(lista, 4):
+	for i in splitter(lista, 7):
 		print(i)
